@@ -1,0 +1,61 @@
+=> Create a Virtual Environment
+   ----------------------------
+   python -m venv env
+
+=> virtual environment activation.
+   -------------------------------
+   env\Scripts\activate
+
+
+DRF Concepts:
+----------------
+Software Installation
+What is an API?
+What is REST API?
+Django Installation Start
+Django Rest Framework Installation
+Web Application Endpoint
+Simple API Endpoint
+Create Model
+Manual Serialization
+Serializers
+Function-Based View Get Method
+Storing Data Using Serializers
+Get A Single Object Primary Key-Based Operation
+Update Operation On Student
+Delete Operation 
+Class-Based Views Introduction
+Employee Model
+Employee Serializer
+Class-Based View Get All Employees
+Class Based Creating Employee
+Getting Single Object
+Update And Delete Employee
+Mixins Overview
+List And Create Model Mixins
+Retrieve Update Destroy Mixins
+Django + React + ML Course Announcement
+Generics Overview
+ListCreateAPIView
+RetrieveUpdateDestroyAPIView
+Viewsets Introduction
+List And Create Data Using Viewsets
+Retrieving Single Object
+ModelViewsets
+Nested Serializers Introduction
+Blog And Comment Model
+Creating Serializers
+Nested Serializers Implementation
+Primary Key Based Operations On Blog Comment
+Pagination Overview
+Global Pagination
+Custom Pagination
+Filtering
+Custom Filter Employee By Designation
+Custom Filter Employees By Name And ID
+Advanced Filtering
+Search Filter
+Ordering Filter
+"Authentication"
+"Permission"
+"Token etc.."
